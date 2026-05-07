@@ -1,0 +1,501 @@
+Accident_ID,Date,Year,State,City,Road_Type,Vehicle_Type,Weather,Accidents,Fatalities,Injured,Cause,Time_of_Day
+A001,17-07-2024,2024,Telangana,Hyderabad,Expressway,Bike,Fog,2,1,3,Overspeeding,Night
+A002,11-07-2023,2023,Telangana,Hyderabad,Expressway,Bike,Fog,2,1,9,Drunk Driving,Night
+A003,21-04-2026,2026,Tamil Nadu,Coimbatore,Expressway,Bus,Rainy,3,0,3,Brake Failure,Afternoon
+A004,29-07-2023,2023,Tamil Nadu,Coimbatore,City Road,Truck,Fog,1,3,2,Brake Failure,Morning
+A005,14-02-2025,2025,Maharashtra,Mumbai,Expressway,Truck,Fog,1,4,5,Drunk Driving,Morning
+A006,15-08-2024,2024,Telangana,Hyderabad,City Road,Truck,Rainy,1,1,2,Brake Failure,Afternoon
+A007,05-03-2024,2024,Karnataka,Mysore,Expressway,Car,Fog,3,0,10,Drunk Driving,Afternoon
+A008,06-07-2024,2024,Maharashtra,Pune,Highway,Car,Clear,5,1,6,Brake Failure,Night
+A009,08-03-2024,2024,Karnataka,Bangalore,Expressway,Bus,Rainy,5,2,4,Signal Jumping,Afternoon
+A010,20-05-2024,2024,Karnataka,Bangalore,Expressway,Bus,Fog,5,4,5,Signal Jumping,Evening
+A011,09-11-2025,2025,Tamil Nadu,Chennai,Highway,Car,Fog,4,0,1,Drunk Driving,Night
+A012,27-02-2025,2025,Delhi,New Delhi,Expressway,Truck,Fog,4,4,8,Overspeeding,Morning
+A013,05-08-2026,2026,Delhi,New Delhi,City Road,Car,Rainy,3,0,5,Overspeeding,Evening
+A014,05-11-2025,2025,Delhi,New Delhi,Expressway,Car,Clear,1,2,9,Brake Failure,Afternoon
+A015,11-05-2026,2026,Delhi,New Delhi,Highway,Truck,Rainy,3,3,1,Drunk Driving,Morning
+A016,25-06-2023,2023,Tamil Nadu,Chennai,Highway,Car,Fog,4,0,9,Signal Jumping,Afternoon
+A017,09-03-2024,2024,Karnataka,Mysore,City Road,Truck,Rainy,5,1,5,Signal Jumping,Morning
+A018,12-05-2023,2023,Tamil Nadu,Chennai,Expressway,Car,Fog,3,0,10,Drunk Driving,Morning
+A019,13-04-2024,2024,Telangana,Hyderabad,Highway,Car,Rainy,1,0,6,Signal Jumping,Afternoon
+A020,15-03-2026,2026,Delhi,New Delhi,City Road,Bus,Clear,5,3,4,Overspeeding,Morning
+A021,17-05-2025,2025,Maharashtra,Pune,Expressway,Bike,Clear,4,3,1,Signal Jumping,Evening
+A022,28-01-2024,2024,Telangana,Hyderabad,Highway,Bus,Clear,2,4,8,Brake Failure,Night
+A023,26-06-2025,2025,Tamil Nadu,Chennai,Expressway,Bike,Clear,5,0,1,Drunk Driving,Afternoon
+A024,12-09-2025,2025,Maharashtra,Pune,Highway,Bus,Clear,2,3,1,Signal Jumping,Evening
+A025,16-05-2025,2025,Maharashtra,Pune,Highway,Truck,Clear,5,3,3,Overspeeding,Morning
+A026,13-04-2023,2023,Karnataka,Bangalore,Expressway,Car,Clear,5,3,9,Overspeeding,Afternoon
+A027,14-10-2026,2026,Telangana,Hyderabad,Expressway,Car,Fog,2,3,2,Overspeeding,Morning
+A028,18-06-2024,2024,Maharashtra,Pune,City Road,Bus,Clear,2,2,4,Brake Failure,Night
+A029,20-01-2023,2023,Karnataka,Bangalore,Highway,Bike,Fog,4,4,10,Drunk Driving,Evening
+A030,21-05-2023,2023,Tamil Nadu,Coimbatore,Highway,Bus,Fog,2,2,5,Brake Failure,Morning
+A031,20-09-2026,2026,Delhi,New Delhi,Highway,Bike,Fog,1,1,5,Drunk Driving,Evening
+A032,03-12-2024,2024,Karnataka,Bangalore,City Road,Truck,Clear,2,2,9,Overspeeding,Night
+A033,08-01-2023,2023,Karnataka,Bangalore,Highway,Bus,Fog,3,1,5,Signal Jumping,Morning
+A034,16-11-2026,2026,Telangana,Hyderabad,City Road,Car,Rainy,2,4,1,Drunk Driving,Morning
+A035,23-03-2023,2023,Karnataka,Mysore,Expressway,Bike,Rainy,3,1,4,Signal Jumping,Afternoon
+A036,29-12-2023,2023,Tamil Nadu,Chennai,Expressway,Truck,Rainy,4,0,3,Drunk Driving,Evening
+A037,22-02-2025,2025,Tamil Nadu,Chennai,Highway,Bus,Rainy,1,3,4,Brake Failure,Afternoon
+A038,13-09-2026,2026,Tamil Nadu,Chennai,City Road,Bike,Rainy,2,3,6,Brake Failure,Night
+A039,26-02-2023,2023,Delhi,New Delhi,Expressway,Truck,Clear,1,2,3,Overspeeding,Night
+A040,12-06-2025,2025,Karnataka,Mysore,City Road,Car,Rainy,5,4,2,Overspeeding,Night
+A041,15-01-2025,2025,Telangana,Hyderabad,Expressway,Truck,Fog,4,0,6,Overspeeding,Evening
+A042,27-09-2026,2026,Delhi,New Delhi,Expressway,Truck,Fog,4,2,7,Drunk Driving,Afternoon
+A043,19-10-2026,2026,Maharashtra,Pune,City Road,Bus,Fog,2,4,10,Overspeeding,Evening
+A044,30-05-2025,2025,Karnataka,Bangalore,City Road,Bus,Rainy,5,4,6,Drunk Driving,Night
+A045,04-08-2024,2024,Tamil Nadu,Chennai,Highway,Car,Fog,5,4,6,Brake Failure,Afternoon
+A046,20-02-2023,2023,Tamil Nadu,Chennai,Expressway,Bike,Rainy,1,1,8,Signal Jumping,Afternoon
+A047,29-03-2025,2025,Maharashtra,Pune,Highway,Bus,Clear,2,1,1,Drunk Driving,Night
+A048,06-09-2023,2023,Telangana,Hyderabad,Expressway,Truck,Rainy,4,1,8,Signal Jumping,Night
+A049,10-07-2025,2025,Tamil Nadu,Coimbatore,Expressway,Bus,Fog,3,1,5,Drunk Driving,Evening
+A050,08-08-2024,2024,Maharashtra,Mumbai,City Road,Bike,Clear,2,2,6,Drunk Driving,Afternoon
+A051,17-12-2026,2026,Maharashtra,Mumbai,City Road,Truck,Fog,2,0,7,Signal Jumping,Night
+A052,10-05-2025,2025,Telangana,Hyderabad,Expressway,Bus,Rainy,4,4,1,Overspeeding,Evening
+A053,08-05-2025,2025,Karnataka,Mysore,Highway,Bus,Clear,5,4,10,Brake Failure,Night
+A054,07-03-2025,2025,Maharashtra,Mumbai,City Road,Car,Fog,3,3,3,Overspeeding,Night
+A055,21-06-2023,2023,Delhi,New Delhi,Highway,Bike,Rainy,4,1,8,Signal Jumping,Evening
+A056,31-10-2024,2024,Tamil Nadu,Coimbatore,City Road,Truck,Clear,3,3,5,Signal Jumping,Morning
+A057,17-12-2024,2024,Delhi,New Delhi,Highway,Car,Clear,2,0,1,Overspeeding,Afternoon
+A058,27-08-2025,2025,Tamil Nadu,Chennai,City Road,Truck,Rainy,1,4,4,Drunk Driving,Morning
+A059,10-08-2023,2023,Tamil Nadu,Coimbatore,Expressway,Bus,Rainy,5,0,5,Drunk Driving,Morning
+A060,28-07-2023,2023,Delhi,New Delhi,Expressway,Bike,Rainy,3,4,2,Signal Jumping,Evening
+A061,26-01-2023,2023,Telangana,Warangal,City Road,Truck,Fog,4,3,2,Signal Jumping,Afternoon
+A062,04-12-2025,2025,Maharashtra,Mumbai,City Road,Bus,Rainy,3,4,9,Brake Failure,Evening
+A063,25-07-2024,2024,Tamil Nadu,Chennai,Expressway,Bus,Rainy,4,1,8,Overspeeding,Night
+A064,25-09-2025,2025,Karnataka,Bangalore,City Road,Truck,Fog,2,2,5,Brake Failure,Morning
+A065,25-06-2023,2023,Delhi,New Delhi,Expressway,Car,Fog,2,3,8,Signal Jumping,Night
+A066,10-07-2023,2023,Maharashtra,Mumbai,Expressway,Car,Rainy,3,1,7,Brake Failure,Night
+A067,21-05-2025,2025,Delhi,New Delhi,Expressway,Bus,Rainy,5,2,6,Brake Failure,Evening
+A068,30-01-2024,2024,Tamil Nadu,Chennai,Expressway,Car,Clear,3,0,9,Drunk Driving,Night
+A069,25-07-2023,2023,Karnataka,Mysore,City Road,Car,Rainy,2,2,4,Overspeeding,Afternoon
+A070,22-04-2023,2023,Karnataka,Bangalore,Expressway,Bus,Clear,5,2,3,Overspeeding,Evening
+A071,21-06-2025,2025,Maharashtra,Pune,City Road,Bus,Clear,3,1,1,Overspeeding,Night
+A072,27-03-2026,2026,Maharashtra,Mumbai,Expressway,Truck,Clear,1,1,3,Drunk Driving,Morning
+A073,26-05-2026,2026,Delhi,New Delhi,Expressway,Bus,Rainy,5,4,4,Signal Jumping,Evening
+A074,17-09-2024,2024,Delhi,New Delhi,Expressway,Bike,Clear,5,4,1,Drunk Driving,Evening
+A075,06-05-2024,2024,Telangana,Hyderabad,Highway,Bike,Rainy,2,4,2,Signal Jumping,Night
+A076,19-04-2024,2024,Karnataka,Bangalore,Highway,Car,Rainy,3,2,8,Drunk Driving,Night
+A077,19-08-2026,2026,Telangana,Hyderabad,Highway,Bike,Clear,2,2,3,Brake Failure,Evening
+A078,17-08-2025,2025,Maharashtra,Mumbai,Expressway,Bus,Rainy,3,3,5,Overspeeding,Morning
+A079,21-05-2026,2026,Maharashtra,Pune,Highway,Bike,Fog,3,0,2,Brake Failure,Morning
+A080,28-11-2025,2025,Tamil Nadu,Coimbatore,Expressway,Bus,Fog,4,2,3,Signal Jumping,Morning
+A081,16-04-2025,2025,Maharashtra,Pune,Highway,Truck,Rainy,3,2,2,Signal Jumping,Evening
+A082,20-07-2025,2025,Maharashtra,Mumbai,City Road,Bike,Rainy,1,2,5,Overspeeding,Night
+A083,20-01-2024,2024,Maharashtra,Mumbai,City Road,Bus,Clear,5,2,10,Drunk Driving,Evening
+A084,12-08-2024,2024,Delhi,New Delhi,Highway,Car,Fog,4,3,2,Drunk Driving,Evening
+A085,05-02-2026,2026,Delhi,New Delhi,Highway,Bus,Clear,4,0,4,Drunk Driving,Night
+A086,30-04-2025,2025,Karnataka,Mysore,City Road,Car,Rainy,4,3,4,Drunk Driving,Afternoon
+A087,29-04-2025,2025,Telangana,Warangal,Highway,Truck,Fog,3,4,5,Brake Failure,Night
+A088,08-01-2026,2026,Tamil Nadu,Coimbatore,Expressway,Bus,Rainy,4,2,6,Brake Failure,Afternoon
+A089,23-04-2024,2024,Tamil Nadu,Coimbatore,Expressway,Bus,Fog,4,0,6,Signal Jumping,Night
+A090,17-03-2023,2023,Tamil Nadu,Coimbatore,City Road,Bike,Rainy,2,4,10,Overspeeding,Night
+A091,19-04-2025,2025,Telangana,Hyderabad,City Road,Truck,Fog,2,0,8,Signal Jumping,Morning
+A092,10-10-2024,2024,Karnataka,Mysore,Expressway,Bike,Clear,4,4,1,Brake Failure,Afternoon
+A093,21-07-2023,2023,Telangana,Warangal,Expressway,Truck,Clear,1,3,3,Overspeeding,Evening
+A094,04-01-2025,2025,Telangana,Warangal,Highway,Bus,Fog,3,3,3,Drunk Driving,Afternoon
+A095,02-06-2026,2026,Tamil Nadu,Chennai,City Road,Car,Clear,4,4,4,Signal Jumping,Evening
+A096,27-09-2026,2026,Maharashtra,Pune,Expressway,Car,Clear,1,3,5,Signal Jumping,Evening
+A097,01-08-2026,2026,Delhi,New Delhi,City Road,Car,Rainy,4,2,8,Signal Jumping,Morning
+A098,17-03-2026,2026,Tamil Nadu,Coimbatore,Expressway,Truck,Clear,3,4,5,Signal Jumping,Evening
+A099,26-05-2026,2026,Telangana,Hyderabad,Expressway,Truck,Clear,4,2,4,Drunk Driving,Evening
+A100,09-07-2026,2026,Tamil Nadu,Chennai,Highway,Truck,Fog,1,2,8,Drunk Driving,Morning
+A101,30-04-2025,2025,Karnataka,Mysore,Expressway,Truck,Fog,2,1,3,Brake Failure,Afternoon
+A102,27-08-2024,2024,Karnataka,Mysore,Highway,Car,Clear,3,0,8,Signal Jumping,Evening
+A103,29-01-2023,2023,Telangana,Warangal,City Road,Truck,Fog,3,4,2,Brake Failure,Night
+A104,14-10-2026,2026,Karnataka,Bangalore,Expressway,Truck,Fog,2,3,1,Drunk Driving,Morning
+A105,22-08-2026,2026,Maharashtra,Pune,Highway,Bike,Rainy,4,0,3,Signal Jumping,Morning
+A106,05-01-2026,2026,Telangana,Hyderabad,City Road,Bus,Fog,2,3,8,Drunk Driving,Night
+A107,14-06-2026,2026,Telangana,Warangal,Expressway,Truck,Clear,4,2,1,Signal Jumping,Night
+A108,23-07-2023,2023,Tamil Nadu,Coimbatore,Highway,Bus,Rainy,3,4,6,Drunk Driving,Morning
+A109,19-09-2026,2026,Maharashtra,Mumbai,Highway,Truck,Clear,2,4,1,Drunk Driving,Afternoon
+A110,15-04-2026,2026,Telangana,Hyderabad,Highway,Bike,Rainy,2,1,6,Drunk Driving,Afternoon
+A111,24-12-2023,2023,Delhi,New Delhi,Highway,Truck,Clear,1,0,3,Brake Failure,Morning
+A112,18-04-2023,2023,Tamil Nadu,Coimbatore,Highway,Bike,Rainy,2,3,9,Signal Jumping,Evening
+A113,14-07-2025,2025,Delhi,New Delhi,Highway,Truck,Rainy,5,1,10,Overspeeding,Morning
+A114,23-05-2025,2025,Maharashtra,Pune,Highway,Bike,Rainy,1,3,8,Drunk Driving,Morning
+A115,02-07-2026,2026,Tamil Nadu,Coimbatore,City Road,Truck,Rainy,5,4,6,Signal Jumping,Morning
+A116,30-05-2025,2025,Telangana,Hyderabad,City Road,Bus,Rainy,4,1,7,Signal Jumping,Morning
+A117,02-10-2024,2024,Karnataka,Mysore,Expressway,Bus,Clear,3,2,3,Overspeeding,Morning
+A118,17-07-2023,2023,Telangana,Warangal,Highway,Truck,Fog,3,1,9,Overspeeding,Night
+A119,16-04-2023,2023,Karnataka,Mysore,City Road,Bike,Fog,3,4,5,Drunk Driving,Afternoon
+A120,10-08-2023,2023,Maharashtra,Mumbai,Highway,Truck,Fog,3,4,6,Drunk Driving,Night
+A121,01-06-2026,2026,Delhi,New Delhi,City Road,Truck,Rainy,3,0,3,Brake Failure,Morning
+A122,05-03-2026,2026,Tamil Nadu,Chennai,Expressway,Bike,Clear,4,0,3,Drunk Driving,Night
+A123,29-11-2024,2024,Maharashtra,Pune,Expressway,Truck,Fog,2,2,5,Overspeeding,Morning
+A124,19-06-2026,2026,Tamil Nadu,Chennai,City Road,Bus,Rainy,1,0,5,Signal Jumping,Night
+A125,15-11-2025,2025,Karnataka,Bangalore,Highway,Truck,Fog,1,2,7,Signal Jumping,Evening
+A126,20-03-2025,2025,Telangana,Hyderabad,Highway,Truck,Clear,5,0,1,Drunk Driving,Evening
+A127,03-09-2023,2023,Karnataka,Mysore,Highway,Car,Rainy,1,3,7,Drunk Driving,Evening
+A128,28-03-2023,2023,Telangana,Warangal,Highway,Truck,Fog,4,0,8,Signal Jumping,Night
+A129,24-08-2023,2023,Maharashtra,Pune,Highway,Bus,Fog,4,0,6,Brake Failure,Morning
+A130,13-05-2024,2024,Maharashtra,Mumbai,Expressway,Bike,Rainy,4,4,7,Brake Failure,Evening
+A131,11-12-2023,2023,Tamil Nadu,Coimbatore,Expressway,Car,Rainy,1,4,2,Brake Failure,Afternoon
+A132,27-10-2023,2023,Tamil Nadu,Chennai,Expressway,Car,Fog,3,1,3,Overspeeding,Afternoon
+A133,28-02-2026,2026,Maharashtra,Pune,Expressway,Truck,Fog,5,3,10,Brake Failure,Afternoon
+A134,18-08-2025,2025,Maharashtra,Mumbai,Expressway,Bike,Rainy,4,2,5,Overspeeding,Evening
+A135,19-03-2023,2023,Maharashtra,Pune,Highway,Bike,Fog,1,2,5,Signal Jumping,Night
+A136,10-07-2025,2025,Delhi,New Delhi,Expressway,Bus,Fog,5,1,6,Drunk Driving,Morning
+A137,04-12-2024,2024,Maharashtra,Mumbai,Highway,Car,Fog,1,4,3,Signal Jumping,Night
+A138,15-01-2025,2025,Delhi,New Delhi,City Road,Truck,Fog,3,2,7,Overspeeding,Evening
+A139,13-07-2023,2023,Telangana,Warangal,City Road,Car,Rainy,5,3,5,Overspeeding,Afternoon
+A140,05-09-2026,2026,Karnataka,Mysore,Expressway,Bike,Rainy,4,1,10,Signal Jumping,Evening
+A141,16-08-2026,2026,Tamil Nadu,Chennai,Highway,Truck,Rainy,4,4,6,Drunk Driving,Afternoon
+A142,29-01-2024,2024,Karnataka,Mysore,Highway,Truck,Clear,2,1,3,Overspeeding,Evening
+A143,08-05-2026,2026,Delhi,New Delhi,Highway,Car,Fog,4,1,3,Signal Jumping,Morning
+A144,17-10-2026,2026,Maharashtra,Pune,City Road,Bus,Clear,2,3,10,Drunk Driving,Evening
+A145,23-01-2025,2025,Maharashtra,Mumbai,City Road,Bus,Fog,5,3,8,Signal Jumping,Afternoon
+A146,27-05-2024,2024,Tamil Nadu,Chennai,Expressway,Bike,Fog,1,3,6,Overspeeding,Evening
+A147,12-07-2024,2024,Telangana,Hyderabad,City Road,Bike,Clear,4,4,3,Signal Jumping,Evening
+A148,20-04-2023,2023,Telangana,Warangal,Highway,Bus,Clear,4,4,6,Brake Failure,Afternoon
+A149,22-07-2023,2023,Telangana,Warangal,Highway,Truck,Rainy,3,1,3,Drunk Driving,Night
+A150,12-06-2023,2023,Maharashtra,Mumbai,Highway,Bus,Clear,1,2,4,Brake Failure,Afternoon
+A151,08-04-2023,2023,Karnataka,Bangalore,City Road,Bike,Clear,2,3,10,Signal Jumping,Morning
+A152,22-10-2023,2023,Delhi,New Delhi,Expressway,Truck,Clear,3,3,1,Signal Jumping,Afternoon
+A153,19-05-2023,2023,Telangana,Warangal,Expressway,Bike,Rainy,5,4,9,Signal Jumping,Morning
+A154,03-06-2024,2024,Maharashtra,Pune,City Road,Car,Fog,1,2,2,Overspeeding,Evening
+A155,22-12-2024,2024,Tamil Nadu,Chennai,Expressway,Bus,Fog,5,2,3,Signal Jumping,Afternoon
+A156,26-07-2025,2025,Tamil Nadu,Chennai,Highway,Car,Clear,1,2,4,Brake Failure,Evening
+A157,17-01-2026,2026,Delhi,New Delhi,Expressway,Car,Rainy,4,2,1,Brake Failure,Morning
+A158,12-09-2023,2023,Karnataka,Mysore,Expressway,Bus,Rainy,3,3,7,Brake Failure,Afternoon
+A159,22-01-2025,2025,Maharashtra,Pune,Expressway,Bus,Clear,5,2,2,Signal Jumping,Afternoon
+A160,19-10-2024,2024,Delhi,New Delhi,Expressway,Truck,Rainy,1,0,6,Signal Jumping,Night
+A161,20-12-2024,2024,Tamil Nadu,Coimbatore,Expressway,Bus,Rainy,4,0,6,Overspeeding,Morning
+A162,16-11-2025,2025,Maharashtra,Pune,Expressway,Bus,Clear,2,0,3,Drunk Driving,Morning
+A163,11-01-2025,2025,Tamil Nadu,Coimbatore,Expressway,Car,Fog,4,4,1,Signal Jumping,Evening
+A164,07-06-2023,2023,Karnataka,Mysore,City Road,Bus,Rainy,5,1,9,Brake Failure,Afternoon
+A165,17-01-2024,2024,Telangana,Hyderabad,Expressway,Bike,Rainy,4,4,7,Brake Failure,Night
+A166,22-11-2026,2026,Tamil Nadu,Coimbatore,Highway,Bike,Rainy,4,1,2,Drunk Driving,Night
+A167,29-09-2026,2026,Telangana,Warangal,Expressway,Truck,Rainy,3,0,9,Drunk Driving,Afternoon
+A168,06-09-2023,2023,Karnataka,Bangalore,City Road,Bike,Rainy,2,1,4,Brake Failure,Night
+A169,07-06-2026,2026,Delhi,New Delhi,City Road,Bus,Fog,1,0,5,Signal Jumping,Night
+A170,14-09-2023,2023,Delhi,New Delhi,City Road,Truck,Clear,3,0,8,Drunk Driving,Afternoon
+A171,12-09-2023,2023,Maharashtra,Mumbai,Highway,Car,Rainy,5,1,5,Drunk Driving,Evening
+A172,11-06-2023,2023,Delhi,New Delhi,City Road,Car,Fog,3,1,9,Brake Failure,Morning
+A173,27-04-2026,2026,Delhi,New Delhi,Expressway,Truck,Fog,5,1,3,Overspeeding,Morning
+A174,06-08-2026,2026,Telangana,Hyderabad,Expressway,Bus,Fog,5,2,4,Overspeeding,Night
+A175,07-08-2026,2026,Delhi,New Delhi,Expressway,Bus,Rainy,3,3,4,Signal Jumping,Morning
+A176,19-06-2025,2025,Telangana,Hyderabad,Highway,Truck,Fog,4,3,8,Drunk Driving,Evening
+A177,27-03-2025,2025,Karnataka,Mysore,Expressway,Bike,Rainy,2,2,9,Drunk Driving,Night
+A178,09-07-2025,2025,Telangana,Warangal,Highway,Truck,Rainy,2,1,2,Signal Jumping,Afternoon
+A179,29-03-2026,2026,Tamil Nadu,Coimbatore,City Road,Bus,Rainy,3,1,3,Brake Failure,Night
+A180,16-03-2025,2025,Telangana,Hyderabad,Highway,Truck,Clear,5,3,4,Overspeeding,Evening
+A181,08-08-2024,2024,Maharashtra,Pune,City Road,Car,Rainy,5,0,2,Brake Failure,Night
+A182,31-03-2025,2025,Karnataka,Bangalore,Highway,Truck,Fog,1,4,9,Brake Failure,Morning
+A183,31-01-2026,2026,Maharashtra,Pune,Highway,Car,Clear,3,4,10,Signal Jumping,Evening
+A184,23-10-2023,2023,Karnataka,Mysore,City Road,Bike,Clear,2,4,9,Overspeeding,Afternoon
+A185,29-11-2025,2025,Karnataka,Mysore,Expressway,Car,Rainy,4,1,10,Brake Failure,Afternoon
+A186,30-04-2026,2026,Maharashtra,Pune,Expressway,Bus,Fog,3,4,9,Brake Failure,Night
+A187,09-11-2024,2024,Telangana,Warangal,City Road,Bike,Fog,1,3,10,Signal Jumping,Evening
+A188,16-04-2023,2023,Delhi,New Delhi,Expressway,Bus,Clear,5,3,3,Drunk Driving,Morning
+A189,26-01-2024,2024,Delhi,New Delhi,City Road,Car,Rainy,1,3,6,Drunk Driving,Night
+A190,08-05-2023,2023,Delhi,New Delhi,Expressway,Truck,Fog,2,4,4,Signal Jumping,Night
+A191,30-07-2025,2025,Karnataka,Bangalore,City Road,Truck,Fog,5,2,9,Signal Jumping,Afternoon
+A192,16-02-2026,2026,Tamil Nadu,Coimbatore,City Road,Car,Fog,3,1,5,Signal Jumping,Evening
+A193,21-02-2026,2026,Maharashtra,Pune,Expressway,Bus,Rainy,3,2,2,Brake Failure,Afternoon
+A194,12-08-2024,2024,Karnataka,Bangalore,Expressway,Truck,Fog,1,2,8,Signal Jumping,Afternoon
+A195,25-02-2026,2026,Tamil Nadu,Coimbatore,Expressway,Car,Clear,3,1,2,Overspeeding,Afternoon
+A196,25-07-2023,2023,Tamil Nadu,Chennai,Highway,Car,Clear,4,2,8,Drunk Driving,Night
+A197,25-08-2026,2026,Maharashtra,Pune,City Road,Bike,Clear,2,2,6,Drunk Driving,Morning
+A198,27-12-2023,2023,Tamil Nadu,Coimbatore,Highway,Truck,Clear,1,3,8,Overspeeding,Evening
+A199,17-11-2024,2024,Delhi,New Delhi,Expressway,Bus,Clear,3,3,9,Signal Jumping,Evening
+A200,08-11-2024,2024,Tamil Nadu,Chennai,Expressway,Car,Clear,2,3,5,Brake Failure,Evening
+A201,26-12-2023,2023,Delhi,New Delhi,Expressway,Truck,Clear,5,3,7,Signal Jumping,Morning
+A202,04-09-2025,2025,Tamil Nadu,Chennai,City Road,Bus,Clear,3,1,1,Signal Jumping,Evening
+A203,07-04-2026,2026,Karnataka,Mysore,Expressway,Truck,Fog,5,0,5,Drunk Driving,Morning
+A204,20-09-2024,2024,Telangana,Warangal,Expressway,Truck,Fog,2,3,9,Overspeeding,Evening
+A205,24-03-2024,2024,Karnataka,Bangalore,City Road,Truck,Rainy,2,3,3,Signal Jumping,Afternoon
+A206,12-12-2025,2025,Tamil Nadu,Chennai,Highway,Bike,Clear,4,4,6,Drunk Driving,Afternoon
+A207,01-12-2025,2025,Tamil Nadu,Coimbatore,Expressway,Bus,Clear,4,0,4,Signal Jumping,Morning
+A208,17-11-2025,2025,Maharashtra,Mumbai,Highway,Bus,Fog,4,3,10,Brake Failure,Morning
+A209,07-01-2023,2023,Maharashtra,Pune,Highway,Bus,Rainy,2,4,2,Overspeeding,Morning
+A210,06-03-2023,2023,Telangana,Warangal,Highway,Bus,Rainy,3,3,3,Signal Jumping,Night
+A211,14-06-2023,2023,Maharashtra,Pune,Highway,Car,Fog,5,1,6,Signal Jumping,Afternoon
+A212,16-02-2023,2023,Tamil Nadu,Chennai,City Road,Bus,Clear,3,3,9,Drunk Driving,Night
+A213,18-07-2024,2024,Karnataka,Bangalore,Expressway,Bus,Fog,2,0,1,Overspeeding,Afternoon
+A214,26-07-2023,2023,Tamil Nadu,Chennai,Expressway,Bike,Clear,5,0,8,Overspeeding,Night
+A215,10-01-2026,2026,Maharashtra,Mumbai,Expressway,Truck,Clear,2,0,3,Brake Failure,Evening
+A216,21-10-2023,2023,Tamil Nadu,Coimbatore,City Road,Truck,Clear,5,1,7,Drunk Driving,Night
+A217,07-04-2023,2023,Delhi,New Delhi,City Road,Bus,Rainy,3,3,9,Drunk Driving,Evening
+A218,06-01-2026,2026,Maharashtra,Mumbai,City Road,Car,Rainy,4,1,4,Overspeeding,Night
+A219,06-03-2025,2025,Maharashtra,Mumbai,City Road,Bike,Rainy,2,2,4,Brake Failure,Morning
+A220,16-04-2023,2023,Delhi,New Delhi,Expressway,Bike,Clear,3,3,10,Drunk Driving,Afternoon
+A221,12-11-2024,2024,Maharashtra,Mumbai,Highway,Bike,Fog,3,0,4,Signal Jumping,Afternoon
+A222,23-03-2025,2025,Delhi,New Delhi,City Road,Bus,Rainy,2,4,6,Brake Failure,Evening
+A223,16-11-2025,2025,Karnataka,Mysore,Expressway,Bus,Rainy,4,3,2,Drunk Driving,Evening
+A224,04-04-2023,2023,Karnataka,Mysore,Highway,Truck,Fog,5,1,3,Signal Jumping,Evening
+A225,06-11-2024,2024,Tamil Nadu,Chennai,Highway,Bus,Fog,2,3,10,Brake Failure,Evening
+A226,01-08-2025,2025,Maharashtra,Pune,Highway,Bus,Clear,2,2,3,Overspeeding,Morning
+A227,14-01-2023,2023,Telangana,Hyderabad,Highway,Car,Clear,4,1,4,Drunk Driving,Night
+A228,19-06-2026,2026,Karnataka,Bangalore,Highway,Bike,Fog,5,3,8,Signal Jumping,Morning
+A229,02-01-2026,2026,Telangana,Warangal,Expressway,Bus,Clear,3,0,9,Overspeeding,Morning
+A230,08-05-2024,2024,Delhi,New Delhi,City Road,Truck,Rainy,2,4,9,Signal Jumping,Morning
+A231,29-07-2025,2025,Karnataka,Mysore,City Road,Bike,Fog,5,1,4,Overspeeding,Morning
+A232,11-02-2025,2025,Maharashtra,Pune,Expressway,Bike,Fog,5,3,1,Drunk Driving,Morning
+A233,13-08-2026,2026,Maharashtra,Pune,Expressway,Bike,Clear,3,4,2,Drunk Driving,Night
+A234,02-06-2023,2023,Karnataka,Bangalore,Expressway,Bike,Clear,3,4,10,Brake Failure,Morning
+A235,30-12-2026,2026,Tamil Nadu,Chennai,Highway,Car,Fog,4,0,5,Signal Jumping,Evening
+A236,12-11-2026,2026,Maharashtra,Mumbai,Highway,Bike,Rainy,1,4,6,Drunk Driving,Morning
+A237,30-10-2024,2024,Karnataka,Mysore,City Road,Car,Rainy,1,2,8,Signal Jumping,Night
+A238,25-06-2023,2023,Tamil Nadu,Coimbatore,Expressway,Bike,Clear,5,2,4,Brake Failure,Afternoon
+A239,08-03-2025,2025,Maharashtra,Mumbai,Highway,Bike,Rainy,3,2,2,Signal Jumping,Evening
+A240,29-09-2023,2023,Karnataka,Bangalore,City Road,Bus,Clear,1,1,7,Overspeeding,Morning
+A241,07-05-2026,2026,Karnataka,Bangalore,Highway,Truck,Rainy,5,2,7,Signal Jumping,Morning
+A242,17-03-2026,2026,Delhi,New Delhi,Highway,Car,Rainy,5,1,7,Brake Failure,Evening
+A243,10-05-2023,2023,Maharashtra,Mumbai,City Road,Truck,Rainy,2,3,5,Overspeeding,Evening
+A244,04-07-2026,2026,Karnataka,Bangalore,Highway,Bus,Clear,4,4,10,Drunk Driving,Evening
+A245,11-11-2024,2024,Telangana,Warangal,City Road,Truck,Rainy,5,3,6,Drunk Driving,Evening
+A246,08-09-2025,2025,Karnataka,Bangalore,City Road,Truck,Fog,3,1,7,Signal Jumping,Afternoon
+A247,28-07-2024,2024,Karnataka,Mysore,Expressway,Car,Fog,4,2,2,Drunk Driving,Morning
+A248,16-06-2025,2025,Maharashtra,Mumbai,Expressway,Bus,Clear,3,0,7,Brake Failure,Afternoon
+A249,16-05-2025,2025,Karnataka,Bangalore,Expressway,Bus,Fog,4,0,8,Signal Jumping,Night
+A250,06-01-2025,2025,Delhi,New Delhi,Highway,Car,Fog,5,4,2,Brake Failure,Afternoon
+A251,27-02-2026,2026,Delhi,New Delhi,Highway,Bike,Clear,4,2,7,Brake Failure,Afternoon
+A252,01-07-2025,2025,Delhi,New Delhi,Expressway,Car,Rainy,3,3,8,Overspeeding,Night
+A253,01-05-2025,2025,Telangana,Warangal,City Road,Truck,Rainy,1,0,3,Signal Jumping,Afternoon
+A254,14-12-2024,2024,Delhi,New Delhi,Expressway,Bus,Rainy,4,0,8,Overspeeding,Evening
+A255,16-02-2023,2023,Telangana,Hyderabad,Expressway,Car,Fog,3,0,3,Drunk Driving,Afternoon
+A256,04-08-2025,2025,Karnataka,Mysore,Highway,Bus,Rainy,2,3,3,Overspeeding,Afternoon
+A257,07-03-2025,2025,Maharashtra,Pune,City Road,Bike,Fog,1,1,4,Overspeeding,Afternoon
+A258,08-02-2024,2024,Karnataka,Mysore,Expressway,Bus,Fog,4,0,5,Brake Failure,Night
+A259,17-04-2026,2026,Delhi,New Delhi,City Road,Car,Fog,1,2,6,Brake Failure,Morning
+A260,30-08-2023,2023,Tamil Nadu,Coimbatore,Highway,Truck,Fog,2,2,2,Drunk Driving,Night
+A261,23-03-2026,2026,Maharashtra,Mumbai,City Road,Car,Fog,4,3,3,Drunk Driving,Night
+A262,19-01-2024,2024,Karnataka,Bangalore,Highway,Truck,Clear,3,3,10,Signal Jumping,Afternoon
+A263,24-02-2026,2026,Tamil Nadu,Coimbatore,Expressway,Bus,Rainy,5,3,7,Signal Jumping,Night
+A264,03-03-2026,2026,Tamil Nadu,Chennai,Highway,Truck,Clear,1,1,5,Brake Failure,Afternoon
+A265,30-01-2026,2026,Maharashtra,Pune,Highway,Truck,Fog,5,0,10,Brake Failure,Morning
+A266,20-05-2025,2025,Maharashtra,Mumbai,Highway,Bus,Rainy,1,1,5,Brake Failure,Morning
+A267,30-04-2024,2024,Maharashtra,Mumbai,Expressway,Bus,Clear,2,4,6,Drunk Driving,Afternoon
+A268,13-03-2026,2026,Tamil Nadu,Chennai,Expressway,Car,Rainy,3,4,5,Brake Failure,Evening
+A269,19-11-2025,2025,Delhi,New Delhi,Highway,Truck,Fog,1,1,7,Drunk Driving,Afternoon
+A270,27-12-2026,2026,Tamil Nadu,Chennai,City Road,Car,Fog,3,1,7,Brake Failure,Night
+A271,04-06-2023,2023,Maharashtra,Pune,Expressway,Truck,Fog,1,3,9,Brake Failure,Night
+A272,06-04-2026,2026,Maharashtra,Pune,Expressway,Truck,Clear,1,0,8,Signal Jumping,Afternoon
+A273,10-10-2025,2025,Maharashtra,Mumbai,City Road,Car,Fog,3,2,5,Signal Jumping,Evening
+A274,23-07-2023,2023,Telangana,Hyderabad,Highway,Bus,Rainy,4,0,2,Overspeeding,Night
+A275,24-08-2026,2026,Tamil Nadu,Chennai,Highway,Truck,Rainy,3,1,5,Overspeeding,Evening
+A276,22-03-2025,2025,Tamil Nadu,Chennai,Expressway,Bike,Fog,3,1,7,Overspeeding,Morning
+A277,09-06-2023,2023,Tamil Nadu,Coimbatore,Expressway,Bus,Clear,2,4,4,Overspeeding,Evening
+A278,22-11-2026,2026,Telangana,Warangal,Highway,Bus,Clear,2,3,2,Overspeeding,Morning
+A279,04-09-2024,2024,Karnataka,Mysore,Expressway,Car,Clear,2,3,3,Overspeeding,Afternoon
+A280,12-03-2024,2024,Maharashtra,Pune,Expressway,Bus,Clear,2,3,10,Overspeeding,Morning
+A281,22-04-2026,2026,Tamil Nadu,Chennai,City Road,Car,Clear,4,2,7,Brake Failure,Morning
+A282,15-11-2026,2026,Tamil Nadu,Coimbatore,Expressway,Car,Fog,1,2,4,Signal Jumping,Evening
+A283,10-10-2025,2025,Telangana,Hyderabad,City Road,Bike,Fog,4,0,4,Overspeeding,Evening
+A284,03-03-2025,2025,Karnataka,Bangalore,Expressway,Car,Rainy,5,3,6,Overspeeding,Morning
+A285,29-01-2023,2023,Delhi,New Delhi,Highway,Bus,Fog,3,1,1,Brake Failure,Night
+A286,18-06-2023,2023,Maharashtra,Pune,Highway,Truck,Clear,5,4,10,Brake Failure,Morning
+A287,15-11-2023,2023,Delhi,New Delhi,Expressway,Bike,Rainy,5,2,7,Signal Jumping,Afternoon
+A288,26-06-2023,2023,Telangana,Hyderabad,Expressway,Bike,Rainy,4,0,8,Drunk Driving,Morning
+A289,07-12-2026,2026,Telangana,Hyderabad,City Road,Truck,Clear,1,1,8,Brake Failure,Afternoon
+A290,02-03-2023,2023,Karnataka,Bangalore,Expressway,Bike,Rainy,3,3,5,Overspeeding,Night
+A291,24-04-2023,2023,Maharashtra,Pune,City Road,Car,Rainy,4,4,3,Overspeeding,Morning
+A292,01-04-2023,2023,Tamil Nadu,Chennai,City Road,Truck,Rainy,1,1,1,Drunk Driving,Afternoon
+A293,04-04-2024,2024,Telangana,Warangal,Expressway,Truck,Rainy,3,1,7,Overspeeding,Evening
+A294,03-01-2024,2024,Telangana,Hyderabad,City Road,Bike,Rainy,2,4,1,Brake Failure,Evening
+A295,06-02-2026,2026,Karnataka,Bangalore,Highway,Truck,Fog,4,0,6,Brake Failure,Afternoon
+A296,26-04-2026,2026,Maharashtra,Pune,Highway,Car,Clear,4,1,9,Signal Jumping,Morning
+A297,26-07-2026,2026,Tamil Nadu,Coimbatore,Expressway,Bus,Fog,1,2,1,Brake Failure,Morning
+A298,09-05-2025,2025,Tamil Nadu,Chennai,Expressway,Truck,Clear,4,0,3,Overspeeding,Afternoon
+A299,06-12-2026,2026,Delhi,New Delhi,Expressway,Bike,Fog,3,3,2,Drunk Driving,Night
+A300,09-06-2025,2025,Telangana,Hyderabad,City Road,Truck,Rainy,2,1,5,Brake Failure,Evening
+A301,23-04-2024,2024,Maharashtra,Pune,Expressway,Bike,Clear,1,1,3,Overspeeding,Afternoon
+A302,05-10-2024,2024,Maharashtra,Pune,City Road,Car,Rainy,4,0,9,Brake Failure,Night
+A303,05-07-2023,2023,Karnataka,Bangalore,Highway,Car,Rainy,2,2,10,Drunk Driving,Morning
+A304,22-03-2025,2025,Tamil Nadu,Coimbatore,City Road,Car,Clear,5,0,5,Signal Jumping,Night
+A305,13-07-2023,2023,Delhi,New Delhi,Highway,Bike,Clear,4,0,3,Drunk Driving,Afternoon
+A306,01-02-2025,2025,Tamil Nadu,Coimbatore,City Road,Bike,Clear,1,4,10,Overspeeding,Afternoon
+A307,08-07-2023,2023,Maharashtra,Mumbai,City Road,Bike,Clear,3,0,1,Signal Jumping,Night
+A308,22-02-2025,2025,Maharashtra,Mumbai,Highway,Car,Rainy,4,1,6,Brake Failure,Night
+A309,11-06-2026,2026,Tamil Nadu,Chennai,Expressway,Truck,Rainy,5,4,4,Signal Jumping,Night
+A310,26-07-2024,2024,Telangana,Hyderabad,Highway,Car,Fog,4,1,7,Overspeeding,Night
+A311,20-01-2026,2026,Karnataka,Mysore,Expressway,Truck,Rainy,4,2,10,Brake Failure,Afternoon
+A312,07-05-2026,2026,Telangana,Warangal,Highway,Bus,Fog,2,0,5,Brake Failure,Afternoon
+A313,22-05-2024,2024,Tamil Nadu,Chennai,Expressway,Bike,Clear,2,2,9,Signal Jumping,Evening
+A314,29-04-2024,2024,Tamil Nadu,Chennai,Expressway,Bike,Fog,5,2,6,Brake Failure,Afternoon
+A315,05-10-2025,2025,Delhi,New Delhi,City Road,Bike,Clear,5,2,3,Overspeeding,Afternoon
+A316,10-02-2023,2023,Delhi,New Delhi,City Road,Car,Clear,5,3,1,Brake Failure,Afternoon
+A317,14-02-2023,2023,Karnataka,Bangalore,Highway,Truck,Clear,2,4,3,Brake Failure,Night
+A318,20-11-2024,2024,Delhi,New Delhi,Highway,Bus,Fog,3,2,3,Signal Jumping,Evening
+A319,02-04-2024,2024,Tamil Nadu,Coimbatore,City Road,Truck,Clear,5,1,7,Drunk Driving,Morning
+A320,08-03-2026,2026,Delhi,New Delhi,City Road,Car,Fog,1,1,10,Overspeeding,Night
+A321,09-06-2023,2023,Tamil Nadu,Coimbatore,Highway,Bike,Fog,2,2,6,Brake Failure,Night
+A322,05-03-2024,2024,Telangana,Warangal,City Road,Bike,Fog,2,0,6,Overspeeding,Morning
+A323,09-05-2025,2025,Maharashtra,Pune,City Road,Truck,Fog,2,3,8,Signal Jumping,Morning
+A324,30-11-2023,2023,Maharashtra,Mumbai,City Road,Bike,Rainy,4,0,1,Brake Failure,Morning
+A325,15-12-2023,2023,Telangana,Warangal,Expressway,Bike,Rainy,4,1,2,Signal Jumping,Morning
+A326,28-05-2026,2026,Maharashtra,Mumbai,Highway,Truck,Clear,4,1,1,Drunk Driving,Night
+A327,14-09-2026,2026,Delhi,New Delhi,Highway,Bike,Rainy,3,2,4,Signal Jumping,Afternoon
+A328,08-01-2023,2023,Telangana,Warangal,Expressway,Bus,Clear,4,0,5,Overspeeding,Morning
+A329,31-07-2026,2026,Tamil Nadu,Chennai,Highway,Truck,Rainy,3,0,8,Signal Jumping,Night
+A330,07-08-2026,2026,Karnataka,Bangalore,City Road,Bus,Rainy,5,3,3,Drunk Driving,Night
+A331,19-06-2025,2025,Telangana,Warangal,City Road,Bike,Clear,4,2,4,Overspeeding,Morning
+A332,22-04-2026,2026,Karnataka,Mysore,City Road,Bus,Fog,2,4,1,Signal Jumping,Afternoon
+A333,11-06-2023,2023,Maharashtra,Pune,Expressway,Car,Clear,4,0,9,Signal Jumping,Afternoon
+A334,30-01-2024,2024,Tamil Nadu,Chennai,Highway,Bus,Clear,2,0,7,Drunk Driving,Evening
+A335,28-06-2023,2023,Karnataka,Bangalore,Expressway,Truck,Rainy,4,4,7,Signal Jumping,Morning
+A336,19-08-2023,2023,Delhi,New Delhi,Expressway,Bike,Clear,4,1,3,Overspeeding,Evening
+A337,21-04-2025,2025,Delhi,New Delhi,Expressway,Bus,Clear,3,3,8,Drunk Driving,Evening
+A338,20-06-2026,2026,Maharashtra,Mumbai,City Road,Truck,Fog,5,3,1,Drunk Driving,Morning
+A339,01-02-2025,2025,Maharashtra,Pune,City Road,Truck,Rainy,1,2,5,Overspeeding,Afternoon
+A340,26-06-2025,2025,Tamil Nadu,Coimbatore,Expressway,Bike,Clear,3,2,7,Signal Jumping,Afternoon
+A341,23-11-2025,2025,Maharashtra,Pune,Highway,Bike,Rainy,3,0,9,Signal Jumping,Afternoon
+A342,22-12-2023,2023,Delhi,New Delhi,Highway,Bike,Rainy,2,1,1,Overspeeding,Evening
+A343,24-01-2025,2025,Tamil Nadu,Coimbatore,Expressway,Bike,Fog,4,4,7,Overspeeding,Afternoon
+A344,01-05-2026,2026,Karnataka,Mysore,Expressway,Truck,Rainy,4,1,8,Drunk Driving,Evening
+A345,26-02-2023,2023,Telangana,Warangal,Expressway,Car,Clear,4,0,3,Drunk Driving,Afternoon
+A346,17-11-2025,2025,Karnataka,Mysore,Highway,Car,Fog,1,0,8,Overspeeding,Afternoon
+A347,30-12-2026,2026,Karnataka,Mysore,City Road,Bus,Rainy,3,3,7,Drunk Driving,Night
+A348,12-04-2026,2026,Karnataka,Mysore,Expressway,Truck,Fog,1,0,9,Brake Failure,Evening
+A349,11-05-2023,2023,Telangana,Warangal,City Road,Truck,Fog,3,2,6,Brake Failure,Afternoon
+A350,27-04-2023,2023,Tamil Nadu,Chennai,Expressway,Car,Fog,5,3,6,Overspeeding,Night
+A351,07-05-2025,2025,Karnataka,Mysore,Expressway,Car,Rainy,4,3,1,Drunk Driving,Night
+A352,15-12-2023,2023,Karnataka,Mysore,Highway,Bus,Clear,5,1,5,Brake Failure,Afternoon
+A353,31-03-2024,2024,Karnataka,Bangalore,City Road,Truck,Rainy,3,1,5,Brake Failure,Evening
+A354,21-08-2025,2025,Maharashtra,Mumbai,Expressway,Bike,Rainy,1,4,10,Drunk Driving,Morning
+A355,26-04-2025,2025,Maharashtra,Pune,Highway,Truck,Rainy,1,1,3,Signal Jumping,Afternoon
+A356,15-06-2023,2023,Karnataka,Bangalore,City Road,Bike,Clear,4,2,3,Signal Jumping,Evening
+A357,26-03-2026,2026,Tamil Nadu,Chennai,Highway,Bus,Fog,2,3,2,Signal Jumping,Night
+A358,24-02-2025,2025,Maharashtra,Pune,Highway,Truck,Clear,1,0,9,Brake Failure,Afternoon
+A359,07-07-2026,2026,Telangana,Hyderabad,City Road,Car,Clear,2,1,6,Signal Jumping,Evening
+A360,04-04-2023,2023,Tamil Nadu,Chennai,Expressway,Truck,Rainy,3,2,8,Drunk Driving,Evening
+A361,21-01-2024,2024,Maharashtra,Pune,Highway,Car,Fog,2,3,1,Drunk Driving,Afternoon
+A362,10-09-2023,2023,Telangana,Hyderabad,Expressway,Truck,Fog,3,0,7,Overspeeding,Morning
+A363,09-04-2023,2023,Telangana,Hyderabad,City Road,Bike,Fog,1,3,8,Brake Failure,Night
+A364,24-11-2026,2026,Tamil Nadu,Chennai,Expressway,Bike,Fog,1,2,7,Brake Failure,Afternoon
+A365,13-11-2025,2025,Maharashtra,Mumbai,Highway,Bike,Rainy,5,0,5,Drunk Driving,Afternoon
+A366,03-01-2025,2025,Karnataka,Bangalore,Highway,Bus,Clear,4,2,3,Signal Jumping,Evening
+A367,27-01-2023,2023,Tamil Nadu,Chennai,Expressway,Bus,Clear,1,0,10,Overspeeding,Morning
+A368,12-08-2026,2026,Telangana,Warangal,City Road,Bus,Clear,2,3,5,Overspeeding,Afternoon
+A369,07-01-2025,2025,Telangana,Warangal,Highway,Bike,Clear,3,3,2,Drunk Driving,Afternoon
+A370,15-06-2025,2025,Karnataka,Mysore,City Road,Truck,Clear,5,2,2,Overspeeding,Night
+A371,10-07-2024,2024,Maharashtra,Pune,Expressway,Car,Clear,4,3,7,Drunk Driving,Morning
+A372,02-05-2025,2025,Tamil Nadu,Chennai,Expressway,Bus,Clear,5,3,10,Signal Jumping,Evening
+A373,02-11-2026,2026,Delhi,New Delhi,Highway,Bus,Rainy,2,3,8,Overspeeding,Morning
+A374,26-01-2023,2023,Karnataka,Mysore,Highway,Truck,Fog,5,4,10,Overspeeding,Night
+A375,09-12-2024,2024,Tamil Nadu,Coimbatore,Expressway,Bike,Clear,4,1,9,Drunk Driving,Night
+A376,03-06-2023,2023,Maharashtra,Mumbai,City Road,Truck,Clear,4,2,4,Drunk Driving,Night
+A377,11-06-2023,2023,Maharashtra,Mumbai,City Road,Bike,Rainy,4,3,10,Signal Jumping,Evening
+A378,31-08-2026,2026,Telangana,Warangal,City Road,Bike,Fog,1,0,7,Overspeeding,Morning
+A379,07-11-2025,2025,Delhi,New Delhi,City Road,Truck,Clear,5,1,8,Drunk Driving,Night
+A380,07-09-2026,2026,Karnataka,Mysore,Highway,Car,Clear,3,3,2,Brake Failure,Evening
+A381,08-12-2026,2026,Karnataka,Mysore,City Road,Car,Fog,1,0,3,Signal Jumping,Morning
+A382,20-01-2024,2024,Karnataka,Bangalore,City Road,Car,Fog,1,3,4,Brake Failure,Morning
+A383,20-07-2026,2026,Maharashtra,Mumbai,City Road,Car,Rainy,5,0,8,Overspeeding,Morning
+A384,13-04-2026,2026,Delhi,New Delhi,Expressway,Car,Fog,4,4,3,Drunk Driving,Morning
+A385,29-10-2025,2025,Maharashtra,Pune,Expressway,Car,Rainy,4,3,10,Signal Jumping,Evening
+A386,01-10-2023,2023,Karnataka,Mysore,Expressway,Truck,Fog,2,3,10,Brake Failure,Afternoon
+A387,02-07-2026,2026,Tamil Nadu,Chennai,Expressway,Car,Fog,3,2,3,Brake Failure,Morning
+A388,08-04-2026,2026,Karnataka,Mysore,City Road,Bus,Clear,5,3,9,Overspeeding,Morning
+A389,19-04-2023,2023,Maharashtra,Mumbai,Highway,Truck,Fog,1,1,5,Brake Failure,Afternoon
+A390,22-02-2024,2024,Telangana,Warangal,City Road,Bike,Fog,5,0,6,Drunk Driving,Night
+A391,20-11-2026,2026,Tamil Nadu,Coimbatore,City Road,Truck,Fog,1,3,7,Overspeeding,Morning
+A392,24-06-2026,2026,Karnataka,Bangalore,Expressway,Car,Fog,4,1,6,Drunk Driving,Evening
+A393,30-10-2026,2026,Maharashtra,Mumbai,Expressway,Bike,Rainy,1,1,3,Overspeeding,Night
+A394,24-09-2023,2023,Karnataka,Mysore,Highway,Truck,Rainy,2,4,5,Drunk Driving,Morning
+A395,07-05-2026,2026,Tamil Nadu,Coimbatore,City Road,Truck,Clear,1,4,5,Brake Failure,Afternoon
+A396,31-10-2025,2025,Tamil Nadu,Chennai,Expressway,Bus,Clear,2,3,9,Brake Failure,Afternoon
+A397,09-11-2024,2024,Tamil Nadu,Coimbatore,Expressway,Bus,Fog,3,2,4,Overspeeding,Morning
+A398,07-05-2024,2024,Karnataka,Mysore,Highway,Truck,Rainy,5,4,4,Overspeeding,Night
+A399,20-02-2023,2023,Karnataka,Mysore,Expressway,Bus,Rainy,5,2,9,Overspeeding,Evening
+A400,18-11-2025,2025,Tamil Nadu,Coimbatore,Expressway,Bike,Fog,1,0,3,Overspeeding,Afternoon
+A401,01-08-2023,2023,Tamil Nadu,Coimbatore,Expressway,Bike,Fog,2,4,7,Drunk Driving,Morning
+A402,19-03-2023,2023,Maharashtra,Pune,Highway,Truck,Fog,1,0,1,Overspeeding,Afternoon
+A403,05-03-2025,2025,Karnataka,Mysore,City Road,Bike,Rainy,4,3,7,Overspeeding,Morning
+A404,14-04-2026,2026,Delhi,New Delhi,Expressway,Bike,Rainy,1,0,6,Brake Failure,Morning
+A405,20-02-2025,2025,Karnataka,Mysore,Highway,Car,Clear,4,0,8,Signal Jumping,Evening
+A406,19-10-2026,2026,Tamil Nadu,Coimbatore,Expressway,Car,Clear,3,0,9,Overspeeding,Morning
+A407,05-01-2026,2026,Delhi,New Delhi,Highway,Truck,Clear,5,0,5,Signal Jumping,Afternoon
+A408,28-03-2024,2024,Tamil Nadu,Chennai,Highway,Car,Fog,5,2,4,Overspeeding,Night
+A409,18-08-2024,2024,Delhi,New Delhi,Highway,Bus,Rainy,1,2,2,Brake Failure,Afternoon
+A410,06-08-2024,2024,Tamil Nadu,Chennai,City Road,Bus,Rainy,5,0,4,Brake Failure,Evening
+A411,04-03-2026,2026,Delhi,New Delhi,City Road,Car,Clear,5,2,6,Brake Failure,Afternoon
+A412,20-07-2024,2024,Tamil Nadu,Coimbatore,City Road,Bus,Rainy,3,1,6,Brake Failure,Evening
+A413,26-12-2023,2023,Maharashtra,Mumbai,Highway,Car,Rainy,5,0,5,Overspeeding,Morning
+A414,06-04-2026,2026,Telangana,Hyderabad,Highway,Bike,Fog,5,3,10,Brake Failure,Night
+A415,14-03-2025,2025,Tamil Nadu,Coimbatore,Highway,Bus,Fog,2,4,5,Overspeeding,Night
+A416,19-09-2026,2026,Karnataka,Bangalore,Expressway,Car,Rainy,2,4,3,Drunk Driving,Afternoon
+A417,17-09-2025,2025,Delhi,New Delhi,City Road,Car,Clear,3,0,4,Brake Failure,Evening
+A418,01-10-2026,2026,Tamil Nadu,Chennai,City Road,Bus,Rainy,2,4,6,Overspeeding,Morning
+A419,12-12-2026,2026,Karnataka,Bangalore,Expressway,Car,Rainy,5,2,5,Signal Jumping,Evening
+A420,24-11-2025,2025,Delhi,New Delhi,Expressway,Bus,Rainy,3,3,4,Brake Failure,Night
+A421,24-10-2025,2025,Maharashtra,Mumbai,Highway,Bike,Fog,2,3,3,Brake Failure,Afternoon
+A422,19-11-2023,2023,Tamil Nadu,Chennai,Expressway,Car,Rainy,3,4,2,Brake Failure,Morning
+A423,08-09-2025,2025,Maharashtra,Pune,Expressway,Bus,Clear,2,4,3,Drunk Driving,Morning
+A424,03-10-2023,2023,Tamil Nadu,Chennai,Highway,Bike,Clear,5,0,10,Brake Failure,Afternoon
+A425,12-05-2026,2026,Delhi,New Delhi,Highway,Car,Rainy,5,0,5,Signal Jumping,Night
+A426,21-04-2025,2025,Tamil Nadu,Chennai,Highway,Truck,Clear,5,1,10,Brake Failure,Night
+A427,15-04-2024,2024,Delhi,New Delhi,Highway,Bike,Clear,4,3,3,Signal Jumping,Afternoon
+A428,30-12-2023,2023,Delhi,New Delhi,Highway,Bike,Clear,4,4,10,Signal Jumping,Afternoon
+A429,21-10-2026,2026,Delhi,New Delhi,City Road,Bike,Fog,4,4,7,Signal Jumping,Afternoon
+A430,18-12-2024,2024,Maharashtra,Pune,City Road,Car,Rainy,5,4,2,Signal Jumping,Afternoon
+A431,10-05-2026,2026,Telangana,Warangal,Highway,Bike,Fog,5,3,5,Overspeeding,Morning
+A432,07-02-2025,2025,Delhi,New Delhi,City Road,Bike,Clear,2,2,7,Signal Jumping,Evening
+A433,02-03-2026,2026,Karnataka,Mysore,Expressway,Bus,Clear,3,4,5,Signal Jumping,Night
+A434,19-02-2026,2026,Tamil Nadu,Coimbatore,City Road,Truck,Fog,5,3,5,Signal Jumping,Afternoon
+A435,03-07-2025,2025,Telangana,Hyderabad,Expressway,Bus,Rainy,2,0,4,Overspeeding,Afternoon
+A436,06-07-2023,2023,Maharashtra,Mumbai,City Road,Bike,Clear,2,3,10,Brake Failure,Afternoon
+A437,01-06-2026,2026,Karnataka,Bangalore,Expressway,Truck,Fog,1,3,7,Overspeeding,Afternoon
+A438,22-01-2023,2023,Maharashtra,Pune,Highway,Bike,Fog,2,4,5,Drunk Driving,Afternoon
+A439,04-05-2024,2024,Telangana,Warangal,City Road,Bus,Rainy,1,1,2,Signal Jumping,Night
+A440,26-11-2025,2025,Delhi,New Delhi,Expressway,Truck,Fog,1,0,2,Brake Failure,Evening
+A441,26-05-2026,2026,Karnataka,Bangalore,Expressway,Bike,Rainy,2,3,7,Drunk Driving,Night
+A442,18-02-2026,2026,Delhi,New Delhi,City Road,Bike,Fog,1,4,5,Brake Failure,Evening
+A443,27-02-2026,2026,Maharashtra,Pune,City Road,Bus,Fog,4,1,6,Overspeeding,Night
+A444,19-05-2023,2023,Telangana,Warangal,City Road,Bus,Rainy,4,1,4,Overspeeding,Evening
+A445,10-07-2023,2023,Tamil Nadu,Coimbatore,Expressway,Car,Rainy,4,2,2,Brake Failure,Evening
+A446,10-01-2024,2024,Tamil Nadu,Coimbatore,Highway,Car,Rainy,2,3,4,Drunk Driving,Afternoon
+A447,20-06-2026,2026,Tamil Nadu,Chennai,Highway,Bike,Fog,3,1,2,Signal Jumping,Morning
+A448,14-09-2025,2025,Delhi,New Delhi,City Road,Truck,Rainy,3,4,6,Drunk Driving,Evening
+A449,27-03-2026,2026,Maharashtra,Mumbai,City Road,Bus,Fog,2,0,9,Overspeeding,Evening
+A450,25-07-2025,2025,Maharashtra,Mumbai,City Road,Bike,Clear,1,4,8,Drunk Driving,Night
+A451,28-10-2024,2024,Delhi,New Delhi,Highway,Truck,Clear,3,4,5,Brake Failure,Night
+A452,19-01-2025,2025,Delhi,New Delhi,Highway,Bus,Fog,2,3,7,Brake Failure,Evening
+A453,12-07-2025,2025,Maharashtra,Pune,Expressway,Car,Clear,2,4,3,Brake Failure,Afternoon
+A454,19-02-2025,2025,Delhi,New Delhi,City Road,Bike,Clear,2,1,3,Signal Jumping,Night
+A455,23-09-2025,2025,Tamil Nadu,Coimbatore,Expressway,Bike,Rainy,3,2,9,Overspeeding,Afternoon
+A456,04-06-2024,2024,Telangana,Hyderabad,Expressway,Truck,Rainy,4,0,8,Brake Failure,Evening
+A457,05-12-2024,2024,Delhi,New Delhi,City Road,Car,Fog,1,3,2,Drunk Driving,Evening
+A458,10-10-2026,2026,Karnataka,Mysore,Highway,Bus,Fog,5,3,8,Brake Failure,Night
+A459,04-08-2026,2026,Tamil Nadu,Chennai,Expressway,Bus,Clear,3,3,10,Overspeeding,Afternoon
+A460,04-10-2024,2024,Karnataka,Bangalore,Expressway,Bus,Rainy,3,2,5,Signal Jumping,Evening
+A461,27-04-2025,2025,Delhi,New Delhi,Highway,Car,Fog,2,1,1,Brake Failure,Morning
+A462,24-03-2025,2025,Tamil Nadu,Chennai,City Road,Bike,Clear,1,0,2,Signal Jumping,Morning
+A463,19-06-2026,2026,Telangana,Warangal,City Road,Car,Clear,2,0,7,Brake Failure,Night
+A464,14-12-2025,2025,Tamil Nadu,Chennai,Expressway,Truck,Rainy,2,0,1,Signal Jumping,Night
+A465,28-01-2026,2026,Delhi,New Delhi,Highway,Bus,Fog,4,1,9,Signal Jumping,Evening
+A466,10-01-2026,2026,Karnataka,Mysore,City Road,Truck,Rainy,2,0,8,Brake Failure,Afternoon
+A467,01-01-2023,2023,Karnataka,Bangalore,City Road,Bus,Fog,5,1,6,Overspeeding,Night
+A468,19-01-2023,2023,Maharashtra,Pune,Highway,Bike,Fog,4,2,10,Brake Failure,Afternoon
+A469,19-03-2025,2025,Maharashtra,Pune,City Road,Car,Rainy,2,1,7,Overspeeding,Night
+A470,06-08-2024,2024,Tamil Nadu,Coimbatore,Highway,Bike,Clear,5,2,7,Drunk Driving,Evening
+A471,19-06-2026,2026,Telangana,Warangal,City Road,Car,Rainy,4,2,10,Overspeeding,Afternoon
+A472,16-01-2024,2024,Telangana,Hyderabad,Highway,Bus,Fog,1,2,5,Overspeeding,Afternoon
+A473,31-01-2023,2023,Telangana,Hyderabad,City Road,Truck,Rainy,4,1,6,Brake Failure,Night
+A474,14-06-2023,2023,Telangana,Warangal,City Road,Bike,Fog,2,0,5,Signal Jumping,Afternoon
+A475,20-02-2025,2025,Tamil Nadu,Coimbatore,City Road,Bus,Clear,1,0,4,Overspeeding,Afternoon
+A476,03-12-2025,2025,Maharashtra,Mumbai,Expressway,Truck,Rainy,2,3,7,Drunk Driving,Morning
+A477,02-06-2024,2024,Delhi,New Delhi,City Road,Bike,Fog,4,2,4,Drunk Driving,Morning
+A478,26-10-2024,2024,Tamil Nadu,Coimbatore,Expressway,Bike,Rainy,1,1,5,Drunk Driving,Morning
+A479,10-11-2026,2026,Telangana,Warangal,Highway,Car,Clear,5,1,6,Signal Jumping,Morning
+A480,04-07-2026,2026,Delhi,New Delhi,Expressway,Car,Fog,1,0,6,Overspeeding,Afternoon
+A481,10-10-2024,2024,Maharashtra,Mumbai,Expressway,Car,Clear,5,2,8,Signal Jumping,Evening
+A482,22-03-2023,2023,Tamil Nadu,Coimbatore,City Road,Bus,Clear,4,3,9,Drunk Driving,Evening
+A483,17-07-2024,2024,Karnataka,Mysore,Highway,Car,Rainy,5,4,3,Brake Failure,Evening
+A484,18-07-2025,2025,Delhi,New Delhi,Expressway,Car,Clear,1,4,7,Brake Failure,Afternoon
+A485,10-09-2026,2026,Karnataka,Bangalore,Expressway,Bus,Fog,5,3,4,Drunk Driving,Evening
+A486,05-08-2026,2026,Karnataka,Mysore,Expressway,Bike,Clear,3,0,2,Drunk Driving,Afternoon
+A487,08-08-2023,2023,Telangana,Hyderabad,Highway,Bus,Fog,4,1,2,Signal Jumping,Evening
+A488,28-03-2024,2024,Telangana,Warangal,Highway,Bus,Clear,5,0,1,Signal Jumping,Morning
+A489,25-01-2025,2025,Karnataka,Mysore,Expressway,Bike,Fog,1,4,5,Overspeeding,Evening
+A490,29-11-2025,2025,Telangana,Hyderabad,Expressway,Bus,Clear,1,0,4,Drunk Driving,Afternoon
+A491,17-02-2026,2026,Delhi,New Delhi,Expressway,Truck,Fog,5,3,2,Signal Jumping,Night
+A492,05-01-2024,2024,Telangana,Hyderabad,City Road,Car,Fog,5,3,9,Signal Jumping,Evening
+A493,31-01-2025,2025,Karnataka,Mysore,Expressway,Car,Fog,4,3,6,Drunk Driving,Night
+A494,07-01-2025,2025,Delhi,New Delhi,Highway,Bike,Rainy,4,3,7,Overspeeding,Afternoon
+A495,07-09-2024,2024,Karnataka,Bangalore,Highway,Truck,Fog,2,1,6,Drunk Driving,Morning
+A496,29-12-2024,2024,Telangana,Warangal,City Road,Car,Clear,2,1,5,Brake Failure,Evening
+A497,11-03-2026,2026,Telangana,Warangal,City Road,Car,Rainy,2,0,6,Overspeeding,Evening
+A498,10-06-2023,2023,Telangana,Warangal,City Road,Bus,Clear,1,2,6,Drunk Driving,Morning
+A499,16-09-2024,2024,Maharashtra,Mumbai,Expressway,Car,Rainy,5,0,6,Drunk Driving,Afternoon
+A500,01-07-2025,2025,Telangana,Warangal,Highway,Car,Rainy,5,4,9,Brake Failure,Night
